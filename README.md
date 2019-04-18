@@ -1,1 +1,1 @@
-# Computer-Agorithm
+# Computer-Algorithm
